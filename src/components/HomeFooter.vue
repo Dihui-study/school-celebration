@@ -1,5 +1,5 @@
 <template>
-    <div class="school-footer"></div>
+    <div class="school-footer">herasdasd</div>
 </template>
 
 <script lang="ts">
