@@ -3,6 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+*::-webkit-scrollbar {
+    width: 10px;
+}
+*::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: rgba(204, 211, 217, 1);
+}
+*::-webkit-scrollbar-track {
+    border-radius: 6px;
+    background: rgba(241, 241, 241, 0.35);
+}
 body::-webkit-scrollbar {
     width: 0;
 }
